@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jiu-chen
-- 👀 I’m interested in python & go
+- 👋 Hi, I’m jiu-chen
+- 👀 I’m interested in Python, Go, C & Java
 - 🌱 I’m currently working in NanJing
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me czj125@live.com
