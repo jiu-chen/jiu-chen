@@ -3,4 +3,4 @@
 - 🌱 I’m currently working in NanJing
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me czj125@live.com
-- 🍁 My rough website: https://jiu-chen.github.io/
+- 🍁 My tatty website: https://jiu-chen.github.io/
